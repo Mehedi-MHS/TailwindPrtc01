@@ -86,7 +86,7 @@ const Header = () => {
           </div>
         </div>
         
-        <a href="#" className="block px-4 py-2 text-gray-600 md:inline-block hover:text-blue-500 hover:bg-gray-200 md:hover:bg-transparent">Contact</a>
+        <a href="#" className="block px-4 py-2 text-white md:inline-block hover:text-yellow-500 hover:bg-blue-700 md:hover:bg-transparent">Contact</a>
       </nav>
     </header>
   );
