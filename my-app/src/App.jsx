@@ -1,13 +1,12 @@
 import Header from "./components/Header"
 import Carousel from "./components/Carousel"
+import AboutSection1 from "./components/AboutSection1"
 export default function App() {
   return (
    <>
    <Header />
    <Carousel/>
-   <div className="p-8">
-     <p className="text-xl">Hello World!</p>
-   </div>
+   <AboutSection1/>
    </>
   )
 }

@@ -16,7 +16,7 @@ const slides = [
     id: 1,
     url: '/images/jbnhschool.jpg',
     alt: 'Slide 1',
-    title: 'Discover New Adventures',
+    title: 'School Playground',
     subtitle: 'Explore the world like never before.'
   },
   {
