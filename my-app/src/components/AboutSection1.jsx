@@ -7,7 +7,7 @@ return(
     <div className="container w-full mx-auto mt-2 p-1 grid grid-cols-1 md:grid-cols-12 gap-2">
     <div className="schoolInfo w-full bg-white/50 rounded-xl p-7 md:col-span-8 md:row-span-2 gap-2 shadow-sm">
         <img src="/images/banner2.png" alt="" className="w-full fade-up"/>
-        <span className="text-2xl sm:text-xl text-gray-700 text-justify fade-up">
+        <span className="text-xl md:text-2xl text-gray-700 text-justify fade-up">
 <br /><b>Former Name:</b> Jamidarhat B.N. High School <br /><b>Present Name:</b> Jamidarhat Begum Nurunnahar High School <br />
 EIIN: 107210 <br />Established: 1964 <br />Location: Begumganj Upazila, Noakhali, Bangladesh
 <br /><span className="font-bold text-2xl text-center text-slate-500">Introduction</span> <br />
@@ -41,6 +41,7 @@ Jamidarhat Begum Nurunnahar High School is committed to providing quality educat
 <div className="description text-justify text-slate-500">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda nobis hic dolor, sequi odit, laboriosam illo consectetur atque minima ullam nesciunt illum voluptates quas perferendis excepturi quo odio nemo recusandae.</div>
         </div>
     
+    <img src="/images/helpline.png" alt="National helpline number bd" className="w-full mx-auto my-2" />
     </div>
 
    
