@@ -4,7 +4,7 @@ const AboutSection1 = ()=>{
 
     
 return(
-    <div className="container w-full mx-auto mt-2 p-1 grid grid-cols-1 md:grid-cols-12 gap-2">
+    <div className="container w-full mx-auto mt-3  px-1 pb-10 grid grid-cols-1 md:grid-cols-12 gap-2">
     <div className="schoolInfo w-full bg-white/50 rounded-xl p-7 md:col-span-8 md:row-span-2 gap-2 shadow-sm">
         <img src="/images/banner2.png" alt="" className="w-full fade-up"/>
         <span className="text-xl md:text-2xl text-gray-700 text-justify fade-up">
@@ -33,7 +33,7 @@ Jamidarhat Begum Nurunnahar High School is committed to providing quality educat
         </div>
     
     
-    <div className="headmaster w-full rounded-xl bg-white shadow-sm p-3 mt-2 ">
+    <div className="headmaster w-full rounded-xl bg-white shadow-sm p-3 mt-1 ">
            <div className="w-full bg-blue-100 text-slate-500 text-center font-bold text-2xl p-3 mb-3"> Message of Assistant Headmaster</div>
            <img src="/images/assistant.jpg" alt="" className="w-50 fade-up rounded-lg shadow-sm mx-auto" />
 <div className="title text-blue-700 text-xl text-center">Rahmat Ullah Sujon</div>

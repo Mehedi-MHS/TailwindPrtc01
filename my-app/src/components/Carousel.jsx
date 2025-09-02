@@ -67,7 +67,7 @@ const Carousel = () => {
           disableOnInteraction: false,
         }}
         // Classes for full-screen effect
-        className="w-full h-full"
+        className="w-full h-96 md:h-[400px]"
       >
         {slides.map((slide) => (
           <SwiperSlide key={slide.id}>
@@ -76,7 +76,7 @@ const Carousel = () => {
               <img src={slide.url} alt={slide.alt} className="absolute inset-0 w-full h-full object-cover" />
               
               {/* Semi-transparent dark overlay */}
-              <div className="absolute inset-0 bg-black/40"></div>
+              <div className="absolute inset-0 bg-slate-700/70"></div>
               
               {/* Animated Text Content */}
               <div className="absolute inset-0 flex flex-col items-end justify-center text-white text-center p-8">

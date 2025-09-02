@@ -8,6 +8,7 @@ export default function App() {
    <Header />
    <Carousel/>
    <AboutSection1/>
+   <NewsAndEvents/>
    </>
   )
 }
